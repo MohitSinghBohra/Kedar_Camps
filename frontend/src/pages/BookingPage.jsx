@@ -193,7 +193,7 @@ export default function BookingPage({ onSuccess }) {
                 <div>
                   <Label>Number of Persons *</Label>
                   <input style={inputStyle(errors.persons)} type="number" value={form.persons} min={1} max={selectedCamp?.cap || 20}
-                    onChange={e => set('persons', parseInt(e.target.value) || 1)} />
+                    onChange={e => set('persons', parseInt(e.target.value) || 0)} />
                   {errTxt('persons')}
                 </div>
                 <div>

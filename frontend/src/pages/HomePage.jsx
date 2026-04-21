@@ -7,11 +7,12 @@ const HERO_IMGS = [
 ]
 
 const GALLERY = [
-  { src: 'https://images.unsplash.com/photo-1504280390367-361c6d9f38f4?w=600&q=80', label: 'Himalayan Sunset' },
-  { src: 'https://images.unsplash.com/photo-1537905569824-f89f14803cfe?w=600&q=80', label: 'Starlit Nights' },
-  { src: 'https://images.unsplash.com/photo-1478827536114-da961b7f86d2?w=600&q=80', label: 'Morning Mist' },
-  { src: 'https://images.unsplash.com/photo-1532339142463-fd0a8979791a?w=600&q=80', label: 'Bonfire Evenings' },
-  { src: 'https://images.unsplash.com/photo-1445307806294-bff7f67ff225?w=600&q=80', label: 'Snow Peaks View' },
+  { src: 'https://images.pexels.com/photos/17023450/pexels-photo-17023450.jpeg', label: 'Himalayan Sunset' },
+    { src: 'https://images.pexels.com/photos/15031440/pexels-photo-15031440.jpeg', label: 'Morning Mist' },
+
+  { src: 'https://images.pexels.com/photos/1315684/pexels-photo-1315684.jpeg', label: 'Exploring Mountains' },
+  { src: 'https://images.pexels.com/photos/33846867/pexels-photo-33846867.jpeg', label: 'Bonfire Evenings' },
+  { src: 'https://images.pexels.com/photos/14067150/pexels-photo-14067150.jpeg', label: 'Snow Peaks View' },
   { src: 'https://images.unsplash.com/photo-1500534314209-a25ddb2bd429?w=600&q=80', label: 'Trekking Trails' },
 ]
 
